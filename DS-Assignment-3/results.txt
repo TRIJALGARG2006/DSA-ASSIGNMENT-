@@ -1,0 +1,33 @@
+--- Dataset Size: 1000 ---
+InsertionSort (Random): 0.02819s
+InsertionSort (Sorted): 0.00015s
+InsertionSort (Reverse): 0.05661s
+MergeSort (Random): 0.00231s
+MergeSort (Sorted): 0.00266s
+MergeSort (Reverse): 0.00186s
+QuickSort (Random): 0.00133s
+QuickSort (Sorted): 0.05823s
+QuickSort (Reverse): 0.03071s
+
+--- Dataset Size: 5000 ---
+InsertionSort (Random): 0.70201s
+InsertionSort (Sorted): 0.00072s
+InsertionSort (Reverse): 1.40793s
+MergeSort (Random): 0.01364s
+MergeSort (Sorted): 0.01152s
+MergeSort (Reverse): 0.01166s
+QuickSort (Random): 0.00854s
+QuickSort (Sorted): 1.53419s
+QuickSort (Reverse): 0.74350s
+
+--- Dataset Size: 10000 ---
+InsertionSort (Random): 2.84472s
+InsertionSort (Sorted): 0.00151s
+InsertionSort (Reverse): 5.79743s
+MergeSort (Random): 0.03168s
+MergeSort (Sorted): 0.02458s
+MergeSort (Reverse): 0.02469s
+QuickSort (Random): 0.01791s
+QuickSort (Sorted): 6.25233s
+QuickSort (Reverse): 3.02018s
+
